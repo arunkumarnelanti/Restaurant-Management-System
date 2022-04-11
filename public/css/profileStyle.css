@@ -1,0 +1,44 @@
+.container {
+    padding-top: 80px;
+}
+
+#information {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+td {
+    font-family: Acme;
+    text-align: center;
+}
+
+#section {
+    font-size: 50px;
+    font-family: Akaya Telivigala;
+    color: #444;
+    text-align: center;
+}
+
+#detail {
+    font-size: 20px;
+}
+
+body {
+    background: #F0FFFF;
+}
+
+#goback {
+    position: fixed;
+    font-size: 20px;
+    border: 1px solid #444;
+    background-color: #444;
+}
+
+#goback a {
+    color: white;
+    padding: 3px;
+}
+
+#goback a:hover {
+    text-decoration: none;
+}
